@@ -36,12 +36,6 @@ Este é um simples programa de **Amigo Secreto** desenvolvido em **HTML, CSS e J
 │── 📂 assets       # Imagens e ícones
 ```
 
-## 📌 Melhorias Futuras
-
-- Adicionar a funcionalidade para remover nomes da lista.
-- Permitir que o sorteio seja feito em pares.
-- Salvar os nomes adicionados no armazenamento local do navegador.
-
 ## 📜 Licença
 
 Este projeto é de uso livre para fins educacionais e pessoais. 😊
